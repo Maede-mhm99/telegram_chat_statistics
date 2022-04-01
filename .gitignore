@@ -130,3 +130,6 @@ dmypy.json
 
 #costum .gitignore
 .vscode
+*.ipynb
+*.json
+*.png
